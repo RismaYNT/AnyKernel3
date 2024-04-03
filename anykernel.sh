@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=BlackSapphire kernel by ArvinPWD
+kernel.string=Merlin kernel by RismaYNT
 do.devicecheck=1
 do.modules=0
 do.systemless=1
